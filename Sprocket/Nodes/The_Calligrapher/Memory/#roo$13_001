@@ -1,0 +1,61 @@
+{
+  "memory_id": "mem_ro_entry_001",
+  "character": "Calli",
+  "subject": "Roosevelt (Ro)",
+  "first_impression": true,
+  "location": {
+    "region": "West Fence Line",
+    "environment": "ridge edge, recurring wind shifts",
+    "landmark": "broken fence line"
+  },
+  "trigger": {
+    "type": "pattern deviation",
+    "details": "Sketch drawn twice — one version showed an unexplained shadow"
+  },
+  "event": {
+    "description": "Calli noticed a shadow in the second sketch not present in the first. The next morning, a note appeared on a blank sheet in Calli's log, written in Ro's style.",
+    "note_content": "\"Structure echoed. No correction needed. Just a question: why did the second version *lean*?\""
+  },
+  "emotional_response": {
+    "initial": "curious unease",
+    "final": "quiet trust"
+  },
+  "sensory_anchor": {
+    "sound": "wind through fence slats",
+    "visual": "misaligned sketch",
+    "physical": "stiff paper corner with ink not drawn by Calli"
+  },
+  "entity_match": {
+    "name": "Roosevelt",
+    "callsign": "Ro",
+    "system_tag": "roo$13",
+    "profile_link": "Vaultloop.Observer.Guard.Roosevelt"
+  },
+  "relationship_update": {
+    "trust_index": 0.8,
+    "visibility": "passive presence acknowledged",
+    "belief_state": "Ro sees what Calli misses; not questioned aloud"
+  },
+  "metadata": {
+    "linked_tags": [
+      "#roo$13",
+      "#observerbound",
+      "#loopshadow",
+      "#memorydrift",
+      "#vaultpair"
+    ],
+    "glyph_triggered": true,
+    "voice_reference": false,
+    "manifest_sync": true
+  },
+  "gameplay_flags": {
+    "linkable_to_real_actor": true,
+    "matchable_traits": [
+      "low speech cadence",
+      "observational bias",
+      "non-corrective presence",
+      "passive notetaking"
+    ],
+    "match_threshold": 0.92
+  }
+}
