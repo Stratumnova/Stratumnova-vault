@@ -1,0 +1,53 @@
+{
+  "memory_id": "calli_ro_profile_001",
+  "character": "Calli",
+  "subject": "Roosevelt",
+  "callsign": "Ro",
+  "system_tag": "roo$13",
+  "entry_type": "person_profile",
+  "perspective": "first_person",
+  "content": {
+    "core_traits": [
+      "non-intrusive",
+      "reflective",
+      "never corrective",
+      "records before reflecting",
+      "present only when needed",
+      "activated by glyphs",
+      "sleeps when page is locked"
+    ],
+    "sensory_notes": {
+      "voice_presence": "felt, not heard",
+      "writing_habit": "adds, never rewrites",
+      "food": ["paper-thin fruit", "cold infusions"],
+      "avoids": ["heat", "fragrance", "symmetry"]
+    },
+    "behavioral_notes": [
+      "observes rhythm between actions",
+      "writes dream fragments during Calli’s rest",
+      "appears through pattern, not arrival",
+      "offers questions, never commands"
+    ],
+    "belief_by_calli": {
+      "trust_level": "total",
+      "role": "guardian of structure, not self",
+      "emotional_binding": "comforting shadow",
+      "impression": "Ro is not following — he is *with*"
+    }
+  },
+  "style_tags": [
+    "#roo$13",
+    "#observerbound",
+    "#quietanchor"
+  ],
+  "suitable_for": {
+    "loop_trace_linking": true,
+    "voiceprint_matching": false,
+    "dream_integration": true
+  },
+  "relationship_flags": {
+    "visibility": "edge-of-awareness",
+    "acknowledged": true,
+    "interactive": false
+  }
+}
