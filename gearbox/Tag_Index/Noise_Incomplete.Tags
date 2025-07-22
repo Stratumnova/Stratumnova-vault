@@ -1,0 +1,9 @@
+{
+  "noise_or_incomplete_tags": [
+    "##",
+    "###",
+    "#[doubtloop",
+    "#[intentwatch",
+    "#hotbox`"
+  ]
+}
