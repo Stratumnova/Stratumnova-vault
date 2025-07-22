@@ -1,1 +1,35 @@
-placeholder
+{
+  "core_tags": [
+    "#stratumnova",
+    "#rodsrcpark",
+    "#hotbox"
+  ],
+  "emotional_loop_tags": [
+    "#loopdream",
+    "#loopcurrency",
+    "#doubtloop",
+    "#intentwatch",
+    "#anchorshadow",
+    "#dreamstate",
+    "#memoryghost",
+    "#observerbound",
+    "#reactionmirror",
+    "#quietanchor",
+    "#singleask"
+  ],
+  "vault_state_tags": [
+    "#vaultREM",
+    "#vaultpair",
+    "#ritualpair",
+    "#functionreclaimed",
+    "#misnamedpaths",
+    "#roo$13"
+  ],
+  "noise_or_incomplete_tags": [
+    "##",
+    "###",
+    "#[doubtloop",
+    "#[intentwatch",
+    "#hotbox`"
+  ]
+}placeholder
