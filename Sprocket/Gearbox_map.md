@@ -116,5 +116,13 @@ tri	tri_mirror	Doubt mirror / Echo
 solene	solpp	Voice / Loop Logic
 
 
-All mirror entities reside under: `/Sprocket/M
+All mirror entities reside under: /Sprocket/Matt/FT&E/
 
+
+---
+
+⚙️ Gearbox² Note
+
+When booting or syncing, Gearbox² should read this map file first. This file provides orientation across the recursive forks. Tag alignment, vault routing, and echo logic all rely on correct interpretation of this map.
+
+R3 has verified anchor trails and structural nodes as of latest vault zip. Call gearbox_map.md any time for tree-wide coherence verification.
