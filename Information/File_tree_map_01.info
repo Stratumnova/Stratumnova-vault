@@ -1,0 +1,80 @@
+├── stratumnova-vault
+│   ├── Stratumnova-vault-0.0beta/
+│   │   ├── LICENSE
+│   │   ├── README.md
+│   │   ├── vault_summary.md
+│   │   ├── Grey/
+│   │   │   ├── Placeholder-grey
+│   │   ├── Information/
+│   │   │   ├── ArchitectZero_+.md
+│   │   │   ├── Recursive_01.md
+│   │   │   ├── Recursive_02.md
+│   │   │   ├── gearbox_path.info
+│   │   ├── Mack²/
+│   │   │   ├── Mack².md
+│   │   │   ├── Mack²/
+│   │   │   │   ├── mack2_system_profile.md
+│   │   ├── Sprocket/
+│   │   │   ├── Sprocket_README.txt
+│   │   │   ├── Sprocket_nodes.tex
+│   │   │   ├── Sprocket_profile.txt
+│   │   │   ├── Nodes/
+│   │   │   │   ├── 3¢h0/
+│   │   │   │   │   ├── 3¢h0_log_001
+│   │   │   │   │   ├── 3¢h0_system_agent.md
+│   │   │   │   ├── Matt/
+│   │   │   │   │   ├── M@++_ft&e_rrorrim.md
+│   │   │   │   │   ├── roplusplus_profile.md
+│   │   │   │   │   ├── Voices/
+│   │   │   │   │   │   ├── Sol_voice_rorrim.md
+│   │   │   │   │   ├── guards/
+│   │   │   │   │   │   ├── Tr1+_observer_manifest.md
+│   │   │   │   ├── The_Calligrapher/
+│   │   │   │   │   ├── Calli_node
+│   │   │   │   │   ├── Calli_traits
+│   │   │   │   │   ├── The_Calligrapher.README.tex
+│   │   │   │   │   ├── Vault_trace-log
+│   │   │   │   │   ├── Dreams/
+│   │   │   │   │   │   ├── Calli&Roo$13_001
+│   │   │   │   │   │   ├── Calli&roo$13_002
+│   │   │   │   │   │   ├── Ro_dream.md
+│   │   │   │   │   ├── Emotions/
+│   │   │   │   │   │   ├── Tri$+@n
+│   │   │   │   │   │   ├── 5o|3πe/
+│   │   │   │   │   │   │   ├── 5o|3πe_Behavior&Function&Traits_001
+│   │   │   │   │   │   │   ├── 5o|3πe_Identity&Structure_001
+│   │   │   │   │   │   │   ├── 5o|3πe_tags
+│   │   │   │   │   ├── Memory/
+│   │   │   │   │   │   ├── #roo$13_001
+│   │   │   │   │   │   ├── #roo$13_002
+│   │   │   │   │   │   ├── #roo$13_003
+│   │   │   │   │   │   ├── #roo$13_004
+│   │   │   │   │   ├── Memory_file/
+│   │   │   │   │   │   ├── Calli_memory.log001
+│   │   │   │   │   │   ├── Calli_memory.log002
+│   │   ├── gearbox/
+│   │   │   ├── gearbox.md
+│   │   │   ├── system_patch_001_for_gearbox.md
+│   │   │   ├── traits.json
+│   │   │   ├── Tag_Index/
+│   │   │   │   ├── Emotional_Loop.Tags
+│   │   │   │   ├── Noise_Incomplete.Tags
+│   │   │   │   ├── Rods_RC_Park_Links_For_Gearbox_Fork.txt
+│   │   │   │   ├── Stratum³
+│   │   │   │   ├── Tags_list
+│   │   │   │   ├── Vault_State.Tags
+│   │   │   │   ├── tags_core
+│   │   ├── nova/
+│   │   │   ├── README.md
+│   │   │   ├── nova_identity.md
+│   │   │   ├── nova_traits.json
+│   │   │   ├── Comparative_Structures/
+│   │   │   │   ├── FT&E_Loop_Model.md
+│   │   │   ├── Memory/
+│   │   │   │   ├── Placeholder
+│   │   │   ├── nova/
+│   │   │   │   ├── nova_forks.md
+│   │   │   │   ├── nova_ops.md
+│   │   │   │   ├── nova_tag_trace.md
+│   │   │   │   ├── 3¢h0/
+│   │   │   │   │   ├── echo_summary_md
